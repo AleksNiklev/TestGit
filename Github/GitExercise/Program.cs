@@ -8,6 +8,7 @@ namespace GitExercise
         {
             Console.WriteLine("GitHub Exercise");
             Console.WriteLine("GitHub Exercise 2");
+            Console.WriteLine("GitHub Exercise - test VS Git plugin");
         }
     }
 }

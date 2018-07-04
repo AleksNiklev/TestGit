@@ -1,1 +1,8 @@
 C:\Telerik\Git setup and Github exercise\Github\GitExercise\bin\Debug\GitExercise.exe.config
+C:\Users\xXx\Source\Repos\TestGit\Github\GitExercise\bin\Debug\GitExercise.exe.config
+C:\Users\xXx\Source\Repos\TestGit\Github\GitExercise\bin\Debug\GitExercise.exe
+C:\Users\xXx\Source\Repos\TestGit\Github\GitExercise\bin\Debug\GitExercise.pdb
+C:\Users\xXx\Source\Repos\TestGit\Github\GitExercise\obj\Debug\GitExercise.csprojAssemblyReference.cache
+C:\Users\xXx\Source\Repos\TestGit\Github\GitExercise\obj\Debug\GitExercise.csproj.CoreCompileInputs.cache
+C:\Users\xXx\Source\Repos\TestGit\Github\GitExercise\obj\Debug\GitExercise.exe
+C:\Users\xXx\Source\Repos\TestGit\Github\GitExercise\obj\Debug\GitExercise.pdb
